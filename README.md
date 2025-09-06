@@ -7,5 +7,12 @@ Rocky Linux는 RHEL(Red Hat Enterprise Linux) 계열의 리눅스 배포판으�
 RESF(Rocky Enterprise Software Foundation)에서 관리하며, CentOS의 특징을 이어받아 RHEL과 100% 바이너리 호환성을 제공한다.  
 무료로 이용 가능하며, 서버 중심 설계지만 GNOME 등 GUI 환경도 선택적으로 지원한다.
 
+## 설치
+
+환경: 
+
+
+## Shell
+
 
 
