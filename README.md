@@ -9,8 +9,12 @@ RESF(Rocky Enterprise Software Foundation)에서 관리하며, CentOS의 특징�
 
 ## 설치
 
-환경: 
+환경: Oracle VirtualBox 7.0 +  Rocky Linux 8.8
 
+설치 링크:   
+- https://www.virtualbox.org/
+- https://rockylinux.org/ko-KR/download
+- https://dl.rockylinux.org/vault/rocky/8.8/isos/x86_64/ (이전버전)
 
 ## Shell
 
