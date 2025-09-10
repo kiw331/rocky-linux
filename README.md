@@ -16,6 +16,9 @@ RESF(Rocky Enterprise Software Foundation)에서 관리하며, CentOS의 특징�
 - https://rockylinux.org/ko-KR/download
 - https://dl.rockylinux.org/vault/rocky/8.8/isos/x86_64/ (이전버전)
 
+<img src="https://raw.githubusercontent.com/kiw331/rocky-linux/main/image/vminstall0.PNG" alt="VM Install Screenshot" width="400"/>
+
+
 ## Shell
 
 
